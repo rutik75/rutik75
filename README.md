@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rutik Wakchaure  
+🎓 Electronics & Telecommunication Student | 💻 Developer  
 
-<!--
-**rutik75/rutik75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+🔬 Passionate about **IoT** and **Web Development**  
+🛠 Worked on projects like **Hospital Management System** and **Fake News Detection using ML**  
+📚 Currently exploring **Full-Stack Development** (React, Node.js, Express, MongoDB)  
+🌱 Always curious to learn and build new things  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+- **Languages:** C, C++, Java, Python, JavaScript  
+- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, Next.js  
+- **Databases:** MySQL, MongoDB, Firestore  
+- **Tools & Platforms:** Git, Docker, Google Cloud, MIT App Inventor  
+
+---
+
+## 📌 Featured Projects  
+- 🏥 [Hospital Management System](#) *(Java + MySQL)*  
+- 🤖 [Borewell Rescue Bot](#) *(Robotics + App Inventor)*  
+- 📰 [Fake News Detection](#) *(AI/ML, Python)*  
+- 🌐 [Mini Full-Stack Web App for Rural Services](#)  
+
+---
+
+## 🌐 Connect with Me  
+📧 **Email:** rutikwakchaure9@gmail.com  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/rutik-wakchaure-870b931bb/]  
