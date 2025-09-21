@@ -6,14 +6,14 @@
 ## 🚀 About Me  
 🔬 Passionate about **IoT** and **Web Development**  
 🛠 Worked on projects like **Hospital Management System** and **Fake News Detection using ML**  
-📚 Currently exploring **Full-Stack Development** (React, Node.js, Express, MongoDB)  
+📚 Currently exploring **Full-Stack Development** (React, Node js, MongoDB)  
 🌱 Always curious to learn and build new things  
 
 ---
 
 ## 🛠 Tech Stack  
 - **Languages:** C, C++, Java, Python, JavaScript  
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, Next.js  
+- **Web Development:** HTML, CSS, React, Node.js  
 - **Databases:** MySQL, MongoDB, Firestore  
 - **Tools & Platforms:** Git, Docker, Google Cloud, MIT App Inventor  
 
