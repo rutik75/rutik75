@@ -15,7 +15,7 @@
 - **Languages:** C, C++, Java, Python, JavaScript  
 - **Web Development:** HTML, CSS, React, Node.js  
 - **Databases:** MySQL, MongoDB, Firestore  
-- **Tools & Platforms:** Git, Docker, Google Cloud, MIT App Inventor  
+- **Tools & Platforms:** Git, Docker, Google Cloud, MIT App Inventor, Colab  
 
 ---
 
